@@ -1,0 +1,19 @@
+td img{
+    width: 200px;
+    height: 200px;
+    border-radius: 0px 50px 0px 50px;
+}
+td img:hover{
+    
+    opacity: 0.5;
+}
+.fondo_color{
+    text-align: center;
+    background-color: aqua;
+    padding: 40px;
+}
+#titulo{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
